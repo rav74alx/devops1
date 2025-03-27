@@ -1,3 +1,3 @@
 login = "admin"
-print(f"logujemy{login}")
-# stara wersja
+print(f"logujemy {login}")
+# inna wersja
