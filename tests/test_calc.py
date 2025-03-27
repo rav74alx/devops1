@@ -16,4 +16,4 @@ def test_add():
 ])
 
 def test_param_add(a,b,wynik):
-    assert add(ab) == wynik
+    assert add(a,b) == wynik
